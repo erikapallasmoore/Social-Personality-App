@@ -43,7 +43,7 @@ gem 'simple_form'
 
 gem 'devise-bootstrap-views'
 
-
+gem 'commontator'
 
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'

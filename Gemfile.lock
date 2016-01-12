@@ -59,6 +59,9 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.10.0)
+    commontator (4.11.0)
+      jquery-rails
+      rails (>= 3.1)
     concurrent-ruby (1.0.0)
     d3js-rails (3.1.6)
       railties (>= 3.0, < 5.0)
@@ -226,6 +229,7 @@ DEPENDENCIES
   bootstrap_form
   byebug
   coffee-rails (~> 4.1.0)
+  commontator
   d3js-rails
   devise
   devise-bootstrap-views
